@@ -28,7 +28,7 @@ O protótipo utiliza sensores de baixo custo e alta eficiência para medir os n�
 - **Beatriz Pereira Macedo** – Análise e Desenvolvimento de Sistemas
 - **Cleisson Alves de Lima** – Análise e Desenvolvimento de Sistemas
 - **Emerson da Silva Rodrigues** – Análise e Desenvolvimento de Sistemas
-- **Eric dos Santos** – 824219534 Ciência da Computação
+- **Eric dos Santos** – Ciência da Computação
 - **Fellipe dos Santos Silva** – Análise e Desenvolvimento de Sistemas
 - **Murilo Serra Lira** – Gestão de Tecnologia da Informação
 - **Pedro Rocha Lopes** – Análise e Desenvolvimento de Sistemas
